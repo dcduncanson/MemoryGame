@@ -100,7 +100,7 @@ function handleCardClick(event) {
           firstCard = secondCard = null;
           revealedCards = 0;
           clickable = true;
-        }, 1200);
+        }, 750);
       }
 
     }
